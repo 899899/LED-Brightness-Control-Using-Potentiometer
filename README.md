@@ -88,10 +88,6 @@ The value is converted into PWM range (0–255) and used to control LED brightne
 
 📸 Project Image
 
-(Add your project image here)
-
-Example:
-
 ![Project Image](project.jpg)
 
 ---
