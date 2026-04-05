@@ -65,7 +65,7 @@ The value is converted into PWM range (0–255) and used to control LED brightne
 
 📸 Project Image
 
-![Project Image](project.jpg)
+![Project Image]([project](https://github.com/899899/LED-Brightness-Control-Using-Potentiometer/blob/main/1775392301968%20(1).jpg#:~:text=t-,1775392301968%20(1).jpg,-README.md).jpg)
 
 ---
 
