@@ -42,31 +42,7 @@ LED:
 ---
 
 💻 Code
-
-int potPin = A0;
-int ledPin = 9;
-
-int potValue = 0;
-int brightness = 0;
-
-void setup() {
-  pinMode(ledPin, OUTPUT);
-  Serial.begin(9600);
-}
-
-void loop() {
-  potValue = analogRead(potPin);   // 0–1023
-  brightness = potValue / 4;       // convert to 0–255
-
-  analogWrite(ledPin, brightness);
-
-  Serial.print("Pot Value: ");
-  Serial.print(potValue);
-  Serial.print(" | Brightness: ");
-  Serial.println(brightness);
-
-  delay(300);
-}
+led_brightness_using_pot.ino
 
 ---
 
